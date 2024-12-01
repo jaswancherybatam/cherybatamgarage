@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Milikilah Mobil Impian Anda Bersama Chery Automotive</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="hero-section">
+        <div class="container">
+            <h1>Milikilah Mobil Impian Anda Bersama Chery Automotive</h1>
+            <p>Solusi Tepat untuk Warga Batam</p>
+            <a href="https://wa.me/6289623194183" class="btn-primary">WhatsApp: 0896 2319 4183</a>
+        </div>
+    </header>
+
+    <section class="video-section">
+        <div class="container">
+            <h2>Kenali Lebih Dekat Chery Automotive</h2>
+            <video controls width="100%" poster="link_thumbnail_video.jpg">
+                <source src="link_video_chery.mp4" type="video/mp4">
+                Video tidak didukung pada browser Anda. 
+            </video>
+        </div>
+    </section>
+
+    <section class="models-section">
+        <div class="container">
+            <h2>Model Unggulan Kami</h2>
+            <div class="model-cards">
+                <div class="card">
+                    <img src="link_gambar_tiggo5x.jpg" alt="Tiggo 5X">
+                    <h3>Tiggo 5X</h3>
+                </div>
+                <div class="card">
+                    <img src="link_gambar_tiggo7.jpg" alt="Tiggo 7">
+                    <h3>Tiggo 7</h3>
+                </div>
+                <div class="card">
+                    <img src="link_gambar_tiggo8.jpg" alt="Tiggo 8">
+                    <h3>Tiggo 8</h3>
+                </div>
+                <div class="card">
+                    <img src="link_gambar_omoda5.jpg" alt="Omoda 5">
+                    <h3>Omoda 5</h3>
+                </div>
+                <div class="card">
+                    <img src="link_gambar_omodae5.jpg" alt="Omoda E5">
+                    <h3>Omoda E5</h3>
+                </div>
+                <div class="card">
+                    <img src="link_gambar_j6.jpg" alt="J6">
+                    <h3>J6</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="features-section">
+        <div class="container">
+            <h2>Keunggulan Chery</h2>
+            <ul>
+                <li>✨ Desain Stylish</li>
+                <li>💵 Harga Terjangkau</li>
+                <li>⚙️ Fitur Terlengkap di Kelasnya</li>
+                <li>📜 Garansi Panjang Hingga 10 Tahun</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="promo-section">
+        <div class="container">
+            <h2>Penawaran Spesial untuk Anda!</h2>
+            <ul>
+                <li>💰 DP Rendah</li>
+                <li>🔧 Gratis Servis</li>
+                <li>🎁 Hadiah Langsung</li>
+                <li>🚗 Test Drive di Rumah</li>
+                <li>🔄 Trade-In Mobil Lama</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="cta-section">
+        <div class="container">
+            <h2>Hubungi Kami Sekarang!</h2>
+            <p>Ingin test drive? Klik tombol di bawah ini dan chat langsung melalui WhatsApp.</p>
+            <a href="https://wa.me/6289623194183" class="btn-primary">WhatsApp: 0896 2319 4183</a>
+        </div>
+    </section>
+
+    <footer class="footer-section">
+        <div class="container">
+            <p>&copy; 2024 Jaswan Chery Batam. Semua Hak Dilindungi.</p>
+        </div>
+    </footer>
+</body>
+</html>
